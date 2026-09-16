@@ -12,7 +12,7 @@ Aplikacija je jedna React komponenta koja radi kao web stranica, PWA i Android a
 Trke iz regiona, od septembra 2026 grupisane po mesecima. Svaka trka ima datum, mesto, podlogu i deonice sa dužinom i usponom.
 
 | Zemlja | 
-|---|---|
+|---|
 | Srbija | 
 | Bosna i Hercegovina | 
 | Severna Makedonija | 
@@ -36,4 +36,3 @@ Možeš dodati svoju trku sa proizvoljnim brojem deonica, i ispraviti datum, mes
 
 **Vizuelni detalj**
 Svaka kartica ima generisan SVG greben čija strmina odgovara najtežoj deonici te trke. Oblik je determinističan — izvlači se iz hasha ID-ja, pa je ista trka uvek isti greben.
----
